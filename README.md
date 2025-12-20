@@ -7,7 +7,7 @@
 ## 🌱 Motivation
 
 Food waste is a global issue often caused by forgotten ingredients and poor meal planning.  
-NoTiresFood aims to tackle this problem by helping users cook smarter—using what they already have before it expires—making everyday cooking more sustainable, efficient, and intentional.
+NoTiresFood aims to tackle this problem by helping users cook smarter, using what they already have before it expires, making everyday cooking more sustainable, efficient, and intentional.
 
 ---
 
