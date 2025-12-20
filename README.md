@@ -18,7 +18,7 @@ NoTiresFood aims to tackle this problem by helping users cook smarter, using wha
 3. Remaining ingredients are ranked by urgency (expiration date).
 4. Recipes are matched and scored based on ingredient availability.
 5. Recipes that use high-priority ingredients rank higher.
-6. (Optional) An AI model generates step-by-step cooking instructions using the selected ingredients.
+6. An AI model generates step-by-step cooking instructions using the selected ingredients.
 
 ---
 
