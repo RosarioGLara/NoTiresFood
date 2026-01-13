@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Egg Fried Rice",
+        "difficulty": "easy",
+        "missing_ingredients": [
+            "garlic",
+            "soy sauce",
+            "pea",
+            "sesame oil"
+        ],
+        "matched_ingredients": [
+            "rice",
+            "eggs",
+            "onion"
+        ],
+        "steps": [
+            "Chop the onion.",
+            "Heat a pan, saut\u00e9 the chopped onion until translucent.",
+            "Push the onion to one side, scramble the eggs in the empty space until cooked.",
+            "Add the cooked rice to the pan, mixing well with the onion and eggs.",
+            "Stir-fry everything together for a few minutes until heated through."
+        ]
+    },
+    {
+        "name": "Pork Fried Rice",
+        "difficulty": "easy",
+        "missing_ingredients": [
+            "pork",
+            "sesame oil",
+            "soy sauce",
+            "pea and carrot"
+        ],
+        "matched_ingredients": [
+            "rice",
+            "eggs",
+            "onion"
+        ],
+        "steps": [
+            "Cook rice according to package instructions and let it cool.",
+            "Finely chop the onion.",
+            "Whisk eggs in a bowl until blended.",
+            "Heat a pan, then add the chopped onion and saut\u00e9 until softened.",
+            "Add the cooked rice to the pan and stir-fry for a few minutes.",
+            "Pour in the whisked eggs and stir-fry until cooked through and mixed well."
+        ]
+    },
+    {
+        "name": "Kimchi Fried Rice",
+        "difficulty": "easy",
+        "missing_ingredients": [
+            "sesame oil",
+            "soy sauce",
+            "gochujang",
+            "kimchi"
+        ],
+        "matched_ingredients": [
+            "rice",
+            "eggs",
+            "onion"
+        ],
+        "steps": [
+            "Cook rice until tender.",
+            "Chop onion.",
+            "Whisk eggs.",
+            "Heat a pan, cook onion until softened, then add whisked eggs and scramble.",
+            "Combine cooked rice with the egg and onion mixture, stirring until heated through."
+        ]
+    },
+    {
+        "name": "Teriyaki Chicken Rice Bowl",
+        "difficulty": "easy",
+        "missing_ingredients": [
+            "teriyaki sauce",
+            "steamed broccoli",
+            "sesame seed",
+            "chicken thigh"
+        ],
+        "matched_ingredients": [
+            "rice",
+            "onion"
+        ],
+        "steps": [
+            "Chop the onion.",
+            "Rinse the rice thoroughly.",
+            "Saut\u00e9 the chopped onion in a pan until softened.",
+            "Add the rinsed rice to the pan with the onion.",
+            "Pour in water and bring the mixture to a boil.",
+            "Reduce heat, cover, and simmer until all water is absorbed and the rice is tender.",
+            "Let the rice rest for a few minutes before serving."
+        ]
+    },
+    {
+        "name": "Mushroom Risotto",
+        "difficulty": "hard",
+        "missing_ingredients": [
+            "parmesan",
+            "olive oil",
+            "mushroom",
+            "vegetable stock",
+            "butter"
+        ],
+        "matched_ingredients": [
+            "rice",
+            "onion"
+        ],
+        "steps": [
+            "Wash rice thoroughly under cold water.",
+            "Peel and finely chop the onion.",
+            "Combine washed rice and the appropriate amount of water in a pot.",
+            "Bring the water to a boil over high heat.",
+            "Reduce heat to low, cover the pot, and simmer until all water is absorbed and rice is tender.",
+            "Gently stir in the chopped onion just before serving."
+        ]
+    }
+]

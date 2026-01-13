@@ -1,0 +1,2920 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato Basil Pasta",
+    "ingredients": [
+      "200g spaghetti",
+      "2 tbsp olive oil",
+      "2 cloves garlic",
+      "1 can diced tomatoes",
+      "1/4 cup fresh basil",
+      "Salt",
+      "Black pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Boil spaghetti in salted water until al dente.",
+      "Sauté garlic in olive oil until fragrant.",
+      "Add diced tomatoes and simmer for 8 minutes.",
+      "Toss in cooked pasta and chopped basil.",
+      "Season with salt and pepper and serve."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      "300g chicken breast",
+      "1 red bell pepper",
+      "1 green bell pepper",
+      "1 onion",
+      "2 tbsp fajita seasoning",
+      "2 tbsp olive oil",
+      "Tortillas"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Slice chicken and vegetables into strips.",
+      "Heat oil in a pan and add chicken.",
+      "Sprinkle fajita seasoning and cook until browned.",
+      "Add peppers and onion; sauté until tender.",
+      "Serve in warm tortillas."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Beef Stir-Fry",
+    "ingredients": [
+      "300g flank steak",
+      "1 broccoli crown",
+      "1 carrot",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tsp cornstarch",
+      "2 tbsp vegetable oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Slice beef thinly and toss with soy sauce and cornstarch.",
+      "Cut broccoli into florets and slice carrot.",
+      "Heat oil in a wok and sear beef.",
+      "Add vegetables and stir-fry until crisp-tender.",
+      "Stir in oyster sauce and serve over rice."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Curry",
+    "ingredients": [
+      "1 onion",
+      "2 cloves garlic",
+      "1 tbsp ginger",
+      "2 tbsp curry paste",
+      "1 can coconut milk",
+      "2 cups mixed vegetables",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté onion, garlic, and ginger in oil.",
+      "Stir in curry paste and cook 1 minute.",
+      "Pour in coconut milk and bring to a simmer.",
+      "Add mixed vegetables and cook until tender.",
+      "Season with salt and serve with rice."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Grilled Salmon with Lemon",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 lemon",
+      "1 tbsp olive oil",
+      "Salt",
+      "Black pepper",
+      "Fresh dill"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Preheat grill to medium-high.",
+      "Season salmon with salt, pepper, and oil.",
+      "Grill 4-5 minutes per side.",
+      "Squeeze lemon juice over salmon.",
+      "Garnish with chopped dill and serve."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Classic Omelette",
+    "ingredients": [
+      "3 eggs",
+      "1 tbsp butter",
+      "1/4 cup shredded cheese",
+      "Salt",
+      "Black pepper",
+      "Chives"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Beat eggs with salt and pepper.",
+      "Melt butter in a nonstick pan.",
+      "Pour eggs and cook, lifting edges to let uncooked egg flow.",
+      "Add cheese and fold the omelette.",
+      "Top with chopped chives and serve."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Greek Salad",
+    "ingredients": [
+      "2 tomatoes",
+      "1 cucumber",
+      "1/2 red onion",
+      "1/2 cup feta cheese",
+      "1/4 cup olives",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Chop vegetables into bite-sized pieces.",
+      "Combine tomatoes, cucumber, onion, olives, and feta.",
+      "Drizzle with olive oil and sprinkle oregano.",
+      "Toss gently and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Shrimp Scampi",
+    "ingredients": [
+      "300g shrimp",
+      "3 cloves garlic",
+      "3 tbsp butter",
+      "2 tbsp olive oil",
+      "1/4 cup white wine",
+      "1 lemon",
+      "Parsley"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sauté garlic in butter and oil until fragrant.",
+      "Add shrimp and cook until pink.",
+      "Pour in white wine and reduce slightly.",
+      "Squeeze lemon and sprinkle parsley.",
+      "Serve over pasta or with crusty bread."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mushroom Risotto",
+    "ingredients": [
+      "1 cup arborio rice",
+      "200g mushrooms",
+      "1 onion",
+      "3 cups vegetable stock",
+      "2 tbsp butter",
+      "1/4 cup parmesan",
+      "Olive oil"
+    ],
+    "difficulty": "Hard",
+    "steps": [
+      "Sauté onion and mushrooms in oil.",
+      "Add rice and toast 1 minute.",
+      "Add warm stock ladle by ladle, stirring.",
+      "Continue until rice is creamy and al dente.",
+      "Finish with butter and parmesan."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caprese Sandwich",
+    "ingredients": [
+      "Ciabatta roll",
+      "Fresh mozzarella",
+      "Tomato slices",
+      "Fresh basil",
+      "Balsamic glaze",
+      "Olive oil",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Slice ciabatta and drizzle with olive oil.",
+      "Layer mozzarella, tomato, and basil.",
+      "Season with salt and drizzle balsamic.",
+      "Press gently and serve."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Tacos al Pastor",
+    "ingredients": [
+      "400g pork shoulder",
+      "2 tbsp achiote paste",
+      "1 pineapple",
+      "1 onion",
+      "Corn tortillas",
+      "Cilantro",
+      "Lime"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Marinate sliced pork with achiote paste.",
+      "Grill pork and pineapple until charred.",
+      "Chop and combine with diced onion and cilantro.",
+      "Warm tortillas and assemble tacos.",
+      "Finish with a squeeze of lime."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Avocado Toast",
+    "ingredients": [
+      "2 slices sourdough",
+      "1 avocado",
+      "1 tsp lemon juice",
+      "Salt",
+      "Chili flakes",
+      "Olive oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toast bread slices.",
+      "Mash avocado with lemon juice and salt.",
+      "Spread on toast and drizzle olive oil.",
+      "Sprinkle chili flakes and serve."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Butternut Squash Soup",
+    "ingredients": [
+      "1 butternut squash",
+      "1 onion",
+      "2 cloves garlic",
+      "3 cups vegetable stock",
+      "1/2 cup cream",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Roast squash until tender.",
+      "Sauté onion and garlic.",
+      "Add roasted squash and stock; simmer 10 minutes.",
+      "Blend until smooth and stir in cream.",
+      "Season with salt and pepper."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "BBQ Chicken Drumsticks",
+    "ingredients": [
+      "8 chicken drumsticks",
+      "1/2 cup BBQ sauce",
+      "1 tbsp olive oil",
+      "Salt",
+      "Pepper",
+      "Paprika"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Preheat oven to 200°C.",
+      "Season drumsticks with salt, pepper, and paprika.",
+      "Bake for 30 minutes.",
+      "Brush with BBQ sauce and bake 10 more minutes.",
+      "Rest and serve."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Spinach and Feta Quiche",
+    "ingredients": [
+      "1 pie crust",
+      "3 eggs",
+      "1 cup milk",
+      "1 cup spinach",
+      "1/2 cup feta",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Preheat oven to 180°C.",
+      "Whisk eggs, milk, salt, and pepper.",
+      "Spread spinach and feta in crust.",
+      "Pour custard over and bake 35-40 minutes.",
+      "Cool slightly before slicing."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pancakes",
+    "ingredients": [
+      "1 cup flour",
+      "1 tbsp sugar",
+      "1 tsp baking powder",
+      "1 egg",
+      "1 cup milk",
+      "1 tbsp butter",
+      "Pinch of salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Mix dry ingredients in a bowl.",
+      "Whisk egg, milk, and melted butter.",
+      "Combine and rest batter 5 minutes.",
+      "Cook pancakes on a hot griddle.",
+      "Serve with syrup."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Garlic Butter Steak",
+    "ingredients": [
+      "2 ribeye steaks",
+      "2 tbsp butter",
+      "2 cloves garlic",
+      "Salt",
+      "Pepper",
+      "Thyme"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Season steaks and let sit 20 minutes.",
+      "Sear in a hot pan to desired doneness.",
+      "Add butter, garlic, and thyme; baste.",
+      "Rest 5 minutes and slice."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Chickpea Buddha Bowl",
+    "ingredients": [
+      "1 can chickpeas",
+      "1 sweet potato",
+      "2 cups kale",
+      "1 avocado",
+      "2 tbsp tahini",
+      "1 tbsp lemon juice",
+      "Olive oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Roast cubed sweet potato until tender.",
+      "Sauté kale with olive oil lightly.",
+      "Toast chickpeas in pan until crisp.",
+      "Whisk tahini with lemon juice and water.",
+      "Assemble bowl with avocado and drizzle dressing."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Lentil Dal",
+    "ingredients": [
+      "1 cup red lentils",
+      "1 onion",
+      "2 cloves garlic",
+      "1 tbsp ginger",
+      "1 tsp turmeric",
+      "1 tsp cumin",
+      "3 cups water"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Rinse lentils until water runs clear.",
+      "Sauté onion, garlic, and ginger.",
+      "Add spices and cook 1 minute.",
+      "Add lentils and water; simmer until soft.",
+      "Adjust salt and serve with rice."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "Pizza dough",
+      "1/2 cup tomato sauce",
+      "Fresh mozzarella",
+      "Fresh basil",
+      "Olive oil",
+      "Salt"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Preheat oven to highest setting.",
+      "Stretch dough on a floured surface.",
+      "Spread sauce and top with mozzarella.",
+      "Bake until crust is blistered.",
+      "Top with basil and drizzle olive oil."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Teriyaki Chicken Rice Bowl",
+    "ingredients": [
+      "300g chicken thighs",
+      "1/4 cup teriyaki sauce",
+      "1 cup rice",
+      "1 cup steamed broccoli",
+      "Sesame seeds",
+      "Green onions"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook rice and set aside.",
+      "Pan-sear chicken until browned.",
+      "Add teriyaki sauce and simmer until glazed.",
+      "Serve over rice with broccoli.",
+      "Garnish with sesame and green onions."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Stuffed Bell Peppers",
+    "ingredients": [
+      "4 bell peppers",
+      "300g ground beef",
+      "1 cup cooked rice",
+      "1/2 onion",
+      "1 cup tomato sauce",
+      "1/2 cup shredded cheese",
+      "Salt and pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Preheat oven to 180°C.",
+      "Sauté onion and beef; season.",
+      "Mix in rice and tomato sauce.",
+      "Stuff peppers and top with cheese.",
+      "Bake 30-35 minutes until tender."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Falafel Wraps",
+    "ingredients": [
+      "1 can chickpeas",
+      "1/2 onion",
+      "2 cloves garlic",
+      "2 tbsp parsley",
+      "2 tbsp flour",
+      "1 tsp cumin",
+      "Pita bread"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Blend chickpeas with aromatics and spices.",
+      "Form balls and chill 20 minutes.",
+      "Fry until golden and crisp.",
+      "Serve in pita with veggies and tahini."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Baked Ziti",
+    "ingredients": [
+      "300g ziti pasta",
+      "2 cups marinara",
+      "1 cup ricotta",
+      "1 cup mozzarella",
+      "1/4 cup parmesan",
+      "Basil",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Boil pasta until al dente.",
+      "Mix pasta with marinara and ricotta.",
+      "Top with mozzarella and parmesan.",
+      "Bake at 190°C for 20 minutes.",
+      "Garnish with basil."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Turkey Chili",
+    "ingredients": [
+      "400g ground turkey",
+      "1 onion",
+      "1 bell pepper",
+      "1 can kidney beans",
+      "1 can diced tomatoes",
+      "2 tbsp chili powder",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Brown turkey with chopped onion.",
+      "Add pepper, beans, and tomatoes.",
+      "Stir in chili powder and simmer 25 minutes.",
+      "Season to taste and serve."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Garlic Parmesan Wings",
+    "ingredients": [
+      "1 kg chicken wings",
+      "2 tbsp olive oil",
+      "4 cloves garlic",
+      "1/2 cup parmesan",
+      "Salt",
+      "Pepper",
+      "Parsley"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toss wings with oil, salt, and pepper.",
+      "Bake at 200°C for 40 minutes.",
+      "Sauté garlic in butter and toss wings.",
+      "Sprinkle parmesan and parsley."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Thai Green Curry",
+    "ingredients": [
+      "2 tbsp green curry paste",
+      "1 can coconut milk",
+      "300g chicken",
+      "1 cup mixed vegetables",
+      "Fish sauce",
+      "Basil",
+      "Lime"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Simmer curry paste in coconut milk.",
+      "Add chicken and cook through.",
+      "Stir in vegetables until tender.",
+      "Season with fish sauce and lime.",
+      "Top with basil and serve with rice."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Quinoa Salad",
+    "ingredients": [
+      "1 cup quinoa",
+      "1 cucumber",
+      "1 tomato",
+      "1/4 red onion",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Parsley"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook quinoa and cool.",
+      "Dice vegetables and chop parsley.",
+      "Toss with oil and lemon juice.",
+      "Season with salt and chill before serving."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Pesto Chicken Pasta",
+    "ingredients": [
+      "200g pasta",
+      "300g chicken breast",
+      "1/3 cup pesto",
+      "Cherry tomatoes",
+      "Parmesan",
+      "Olive oil",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Boil pasta until al dente.",
+      "Sear chicken and slice.",
+      "Toss pasta with pesto and tomatoes.",
+      "Add chicken and sprinkle parmesan."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Sushi Rolls",
+    "ingredients": [
+      "2 cups sushi rice",
+      "Nori sheets",
+      "Cucumber",
+      "Avocado",
+      "Imitation crab",
+      "Rice vinegar",
+      "Soy sauce"
+    ],
+    "difficulty": "Hard",
+    "steps": [
+      "Cook rice and season with rice vinegar.",
+      "Lay nori and spread rice evenly.",
+      "Add fillings and roll tightly.",
+      "Slice and serve with soy sauce."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Baked Lemon Chicken",
+    "ingredients": [
+      "4 chicken thighs",
+      "1 lemon",
+      "2 cloves garlic",
+      "2 tbsp olive oil",
+      "Salt",
+      "Pepper",
+      "Rosemary"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Preheat oven to 190°C.",
+      "Season chicken with salt, pepper, and rosemary.",
+      "Add lemon slices and crushed garlic.",
+      "Bake 35-40 minutes until cooked through."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Egg Fried Rice",
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 eggs",
+      "1/2 cup peas",
+      "2 tbsp soy sauce",
+      "1 green onion",
+      "1 tbsp sesame oil",
+      "Garlic"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Scramble eggs and set aside.",
+      "Stir-fry garlic and rice in sesame oil.",
+      "Add peas, soy sauce, and eggs.",
+      "Finish with sliced green onion."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Tom Kha Soup",
+    "ingredients": [
+      "1 can coconut milk",
+      "2 cups chicken stock",
+      "Lemongrass",
+      "Galangal",
+      "Mushrooms",
+      "Chicken",
+      "Fish sauce"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Simmer stock with lemongrass and galangal.",
+      "Add coconut milk and mushrooms.",
+      "Add sliced chicken and cook through.",
+      "Season with fish sauce and lime."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Veggie Quesadillas",
+    "ingredients": [
+      "Flour tortillas",
+      "Bell peppers",
+      "Onion",
+      "Corn",
+      "Cheddar cheese",
+      "Olive oil",
+      "Salsa"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté vegetables until tender.",
+      "Fill tortillas with veggies and cheese.",
+      "Cook on a skillet until cheese melts.",
+      "Serve with salsa."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Shakshuka",
+    "ingredients": [
+      "1 onion",
+      "1 red bell pepper",
+      "2 cups crushed tomatoes",
+      "4 eggs",
+      "2 cloves garlic",
+      "Paprika",
+      "Cumin"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sauté onion, pepper, and garlic.",
+      "Add spices and tomatoes; simmer.",
+      "Make wells and crack in eggs.",
+      "Cover and cook until eggs set."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "BBQ Pulled Pork Sandwiches",
+    "ingredients": [
+      "800g pork shoulder",
+      "1 cup BBQ sauce",
+      "Burger buns",
+      "Coleslaw mix",
+      "Apple cider vinegar",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Slow-cook pork until tender.",
+      "Shred and mix with BBQ sauce.",
+      "Dress coleslaw with vinegar and salt.",
+      "Assemble sandwiches with slaw."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Miso Glazed Eggplant",
+    "ingredients": [
+      "2 eggplants",
+      "2 tbsp miso paste",
+      "1 tbsp honey",
+      "1 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "Green onions",
+      "Sesame seeds"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Slice eggplants and score flesh.",
+      "Mix glaze and brush on eggplant.",
+      "Roast at 200°C for 25 minutes.",
+      "Garnish with onions and sesame."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Clam Linguine",
+    "ingredients": [
+      "200g linguine",
+      "500g clams",
+      "3 cloves garlic",
+      "1/4 cup white wine",
+      "Olive oil",
+      "Parsley",
+      "Chili flakes"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Cook linguine until al dente.",
+      "Sauté garlic and chili in oil.",
+      "Add clams and wine; cover until opened.",
+      "Toss with pasta and parsley."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Roasted Cauliflower Steaks",
+    "ingredients": [
+      "1 large cauliflower",
+      "2 tbsp olive oil",
+      "Paprika",
+      "Garlic powder",
+      "Salt",
+      "Pepper",
+      "Parsley"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Slice cauliflower into steaks.",
+      "Season with oil and spices.",
+      "Roast at 220°C for 25 minutes.",
+      "Top with chopped parsley."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pad Thai",
+    "ingredients": [
+      "Rice noodles",
+      "Shrimp or chicken",
+      "Eggs",
+      "Bean sprouts",
+      "Pad Thai sauce",
+      "Peanuts",
+      "Lime"
+    ],
+    "difficulty": "Hard",
+    "steps": [
+      "Soak noodles until pliable.",
+      "Stir-fry protein and push aside.",
+      "Scramble eggs and add noodles.",
+      "Add sauce, sprouts, and toss.",
+      "Top with peanuts and lime."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Roast Chicken with Herbs",
+    "ingredients": [
+      "1 whole chicken",
+      "2 tbsp butter",
+      "Garlic",
+      "Thyme",
+      "Rosemary",
+      "Lemon",
+      "Salt and pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Preheat oven to 200°C.",
+      "Season chicken and stuff with lemon and herbs.",
+      "Roast for 60-75 minutes until juices run clear.",
+      "Rest before carving."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Gnocchi with Sage Butter",
+    "ingredients": [
+      "500g gnocchi",
+      "3 tbsp butter",
+      "Fresh sage leaves",
+      "Parmesan",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Boil gnocchi until they float.",
+      "Brown butter with sage leaves.",
+      "Toss gnocchi in butter.",
+      "Finish with parmesan and pepper."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Veggie Sushi Bowl",
+    "ingredients": [
+      "2 cups sushi rice",
+      "Cucumber",
+      "Avocado",
+      "Carrot",
+      "Nori strips",
+      "Soy sauce",
+      "Sesame seeds"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook and season rice.",
+      "Slice vegetables thinly.",
+      "Assemble bowl with rice and veggies.",
+      "Top with nori and sesame; serve with soy."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Ratatouille",
+    "ingredients": [
+      "Eggplant",
+      "Zucchini",
+      "Bell peppers",
+      "Tomatoes",
+      "Onion",
+      "Olive oil",
+      "Herbs de Provence"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Slice vegetables evenly.",
+      "Sauté onion and peppers.",
+      "Layer vegetables and bake at 180°C for 40 minutes.",
+      "Drizzle with olive oil and herbs."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Turkey Meatballs",
+    "ingredients": [
+      "400g ground turkey",
+      "1/2 cup breadcrumbs",
+      "1 egg",
+      "2 cloves garlic",
+      "Parsley",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Mix turkey, breadcrumbs, egg, and seasonings.",
+      "Form meatballs and place on a baking sheet.",
+      "Bake at 200°C for 20 minutes.",
+      "Serve with marinara."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Fish Tacos",
+    "ingredients": [
+      "300g white fish",
+      "Corn tortillas",
+      "Cabbage slaw",
+      "Lime crema",
+      "Chili powder",
+      "Olive oil",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Season fish with chili powder and salt.",
+      "Pan-sear until flaky.",
+      "Assemble tacos with slaw and crema.",
+      "Serve with lime wedges."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Pumpkin Ravioli with Brown Butter",
+    "ingredients": [
+      "Pumpkin ravioli",
+      "4 tbsp butter",
+      "Sage leaves",
+      "Parmesan",
+      "Pepper",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Boil ravioli according to package.",
+      "Brown butter with sage.",
+      "Toss ravioli in butter.",
+      "Top with parmesan and pepper."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Pho Bo",
+    "ingredients": [
+      "Beef bones",
+      "Rice noodles",
+      "Thinly sliced beef",
+      "Onion",
+      "Ginger",
+      "Pho spices",
+      "Fish sauce"
+    ],
+    "difficulty": "Hard",
+    "steps": [
+      "Simmer bones with aromatics to make broth.",
+      "Soak noodles and cook briefly.",
+      "Assemble bowl with noodles and beef.",
+      "Pour hot broth and season."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Greek Lemon Potatoes",
+    "ingredients": [
+      "1 kg potatoes",
+      "1/4 cup olive oil",
+      "1/4 cup lemon juice",
+      "Garlic",
+      "Oregano",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cut potatoes into wedges.",
+      "Toss with oil, lemon, garlic, and oregano.",
+      "Roast at 200°C for 45 minutes.",
+      "Season and serve."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Panzanella Salad",
+    "ingredients": [
+      "Stale bread",
+      "Tomatoes",
+      "Cucumber",
+      "Red onion",
+      "Olive oil",
+      "Red wine vinegar",
+      "Basil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toast bread cubes lightly.",
+      "Combine chopped vegetables and basil.",
+      "Dress with oil and vinegar.",
+      "Toss with bread and let sit 15 minutes."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Baked Teriyaki Salmon",
+    "ingredients": [
+      "2 salmon fillets",
+      "1/4 cup teriyaki sauce",
+      "Sesame seeds",
+      "Green onions",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Marinate salmon in teriyaki for 15 minutes.",
+      "Bake at 190°C for 12-15 minutes.",
+      "Garnish with sesame and onions."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Moroccan Chickpea Tagine",
+    "ingredients": [
+      "1 can chickpeas",
+      "Carrots",
+      "Zucchini",
+      "Tomatoes",
+      "Ras el hanout",
+      "Olive oil",
+      "Cilantro"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sauté vegetables with spices.",
+      "Add tomatoes and chickpeas.",
+      "Simmer until flavors meld.",
+      "Top with chopped cilantro."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Cajun Pasta",
+    "ingredients": [
+      "200g pasta",
+      "Chicken or shrimp",
+      "Cajun seasoning",
+      "Cream",
+      "Garlic",
+      "Parmesan",
+      "Olive oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Cook pasta until al dente.",
+      "Sear protein with Cajun seasoning.",
+      "Simmer garlic and cream; add parmesan.",
+      "Toss pasta with sauce and protein."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Roasted Tomato Soup",
+    "ingredients": [
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Vegetable stock",
+      "Cream",
+      "Olive oil",
+      "Basil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Roast tomatoes, onion, and garlic.",
+      "Blend with stock until smooth.",
+      "Simmer and finish with cream.",
+      "Garnish with basil."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "BBQ Tofu Sandwich",
+    "ingredients": [
+      "Firm tofu",
+      "BBQ sauce",
+      "Burger buns",
+      "Pickles",
+      "Red onion",
+      "Lettuce",
+      "Oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Press and slice tofu.",
+      "Pan-fry until golden and toss with BBQ.",
+      "Assemble in buns with toppings."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Kale Caesar Salad",
+    "ingredients": [
+      "Kale",
+      "Croutons",
+      "Parmesan",
+      "Caesar dressing",
+      "Lemon",
+      "Olive oil",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Massage kale with oil and lemon.",
+      "Toss with dressing and croutons.",
+      "Top with parmesan and pepper."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Chicken Noodle Soup",
+    "ingredients": [
+      "Chicken breast",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Egg noodles",
+      "Chicken stock",
+      "Parsley"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté vegetables briefly.",
+      "Add stock and chicken; simmer.",
+      "Shred chicken and add noodles.",
+      "Cook until noodles are tender; add parsley."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Maple Glazed Carrots",
+    "ingredients": [
+      "Carrots",
+      "2 tbsp butter",
+      "2 tbsp maple syrup",
+      "Salt",
+      "Pepper",
+      "Parsley"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Slice carrots and sauté in butter.",
+      "Add maple syrup and cook until glazed.",
+      "Season and garnish with parsley."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Spicy Ramen",
+    "ingredients": [
+      "Ramen noodles",
+      "Chicken or vegetable broth",
+      "Gochujang",
+      "Soy sauce",
+      "Egg",
+      "Green onions",
+      "Sesame oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Simmer broth with gochujang and soy.",
+      "Cook noodles separately.",
+      "Add noodles to broth and top with egg.",
+      "Finish with onions and sesame oil."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Eggplant Parmesan",
+    "ingredients": [
+      "Eggplant",
+      "Breadcrumbs",
+      "Eggs",
+      "Mozzarella",
+      "Parmesan",
+      "Marinara",
+      "Olive oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Bread and fry eggplant slices.",
+      "Layer with marinara and cheeses.",
+      "Bake at 180°C for 30 minutes.",
+      "Let rest before serving."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Lemon Garlic Shrimp Pasta",
+    "ingredients": [
+      "200g pasta",
+      "300g shrimp",
+      "2 cloves garlic",
+      "1 lemon",
+      "2 tbsp butter",
+      "Parsley",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook pasta until al dente.",
+      "Sauté garlic in butter; add shrimp.",
+      "Toss pasta with shrimp, lemon juice, and parsley.",
+      "Season and serve."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Bulgogi Beef",
+    "ingredients": [
+      "400g thinly sliced beef",
+      "Soy sauce",
+      "Sugar",
+      "Garlic",
+      "Sesame oil",
+      "Green onions",
+      "Pear (optional)"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Marinate beef with soy, sugar, garlic, and sesame.",
+      "Sear quickly in a hot pan.",
+      "Top with green onions and serve with rice."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Sweet Potato Tacos",
+    "ingredients": [
+      "Sweet potatoes",
+      "Corn tortillas",
+      "Black beans",
+      "Avocado",
+      "Chipotle crema",
+      "Cilantro",
+      "Lime"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Roast cubed sweet potatoes with spices.",
+      "Warm tortillas and fill with potatoes and beans.",
+      "Top with avocado, crema, cilantro, and lime."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Baked Mac and Cheese",
+    "ingredients": [
+      "Macaroni",
+      "Cheddar",
+      "Milk",
+      "Butter",
+      "Flour",
+      "Breadcrumbs",
+      "Salt"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Cook macaroni and set aside.",
+      "Make cheese sauce with roux and milk.",
+      "Mix pasta with sauce and top with breadcrumbs.",
+      "Bake at 190°C for 20 minutes."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Soba Noodle Salad",
+    "ingredients": [
+      "Soba noodles",
+      "Carrot",
+      "Cucumber",
+      "Edamame",
+      "Soy sauce",
+      "Rice vinegar",
+      "Sesame oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook noodles and rinse cold.",
+      "Julienne vegetables.",
+      "Toss with dressing and edamame."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Burrito Bowl",
+    "ingredients": [
+      "Rice",
+      "Black beans",
+      "Chicken or tofu",
+      "Corn",
+      "Pico de gallo",
+      "Avocado",
+      "Lime"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook rice and season with lime.",
+      "Prepare protein and beans.",
+      "Assemble bowl with toppings."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Coconut Curry Shrimp",
+    "ingredients": [
+      "Shrimp",
+      "Coconut milk",
+      "Red curry paste",
+      "Bell pepper",
+      "Onion",
+      "Fish sauce",
+      "Lime"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sauté onion and pepper.",
+      "Add curry paste and coconut milk.",
+      "Simmer shrimp until cooked; season with fish sauce and lime."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Stuffed Portobello Mushrooms",
+    "ingredients": [
+      "Portobello mushrooms",
+      "Spinach",
+      "Garlic",
+      "Ricotta",
+      "Parmesan",
+      "Olive oil",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté spinach and garlic.",
+      "Mix with ricotta and parmesan.",
+      "Fill mushrooms and bake at 190°C for 20 minutes."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Chicken Parmesan",
+    "ingredients": [
+      "Chicken breasts",
+      "Breadcrumbs",
+      "Eggs",
+      "Mozzarella",
+      "Parmesan",
+      "Marinara",
+      "Olive oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Bread and pan-fry chicken.",
+      "Top with marinara and cheeses.",
+      "Bake until cheese melts; serve."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Tuna Poke Bowl",
+    "ingredients": [
+      "Sushi rice",
+      "Fresh tuna",
+      "Soy sauce",
+      "Sesame oil",
+      "Green onions",
+      "Seaweed salad",
+      "Avocado"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Dice tuna and marinate briefly.",
+      "Cook and season rice.",
+      "Assemble bowl with toppings."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Mango Salsa Chicken",
+    "ingredients": [
+      "Chicken breasts",
+      "Mango",
+      "Red onion",
+      "Cilantro",
+      "Lime",
+      "Chili",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Season and grill chicken.",
+      "Mix diced mango, onion, cilantro, lime, and chili.",
+      "Top chicken with mango salsa."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Broccoli Cheddar Soup",
+    "ingredients": [
+      "Broccoli",
+      "Cheddar",
+      "Onion",
+      "Garlic",
+      "Milk",
+      "Butter",
+      "Flour"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sauté onion and garlic.",
+      "Make roux and add milk.",
+      "Simmer broccoli and blend partially.",
+      "Stir in cheddar and serve."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Chicken Satay with Peanut Sauce",
+    "ingredients": [
+      "Chicken strips",
+      "Soy sauce",
+      "Turmeric",
+      "Garlic",
+      "Peanut butter",
+      "Coconut milk",
+      "Lime"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Marinate chicken and skewer.",
+      "Grill until cooked through.",
+      "Make peanut sauce and serve alongside."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Crispy Baked Chickpeas",
+    "ingredients": [
+      "1 can chickpeas",
+      "Olive oil",
+      "Paprika",
+      "Garlic powder",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Dry chickpeas thoroughly.",
+      "Toss with oil and spices.",
+      "Bake at 200°C for 30-35 minutes."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Sesame Crusted Tuna",
+    "ingredients": [
+      "Tuna steaks",
+      "Sesame seeds",
+      "Soy sauce",
+      "Rice vinegar",
+      "Sesame oil",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Coat tuna in sesame seeds.",
+      "Sear quickly on high heat.",
+      "Serve with soy-vinegar dipping sauce."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Hummus Bowl",
+    "ingredients": [
+      "Hummus",
+      "Pita",
+      "Cucumber",
+      "Tomato",
+      "Olives",
+      "Feta",
+      "Olive oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Spread hummus in a bowl.",
+      "Top with chopped vegetables and feta.",
+      "Drizzle olive oil and serve with pita."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Cuban Mojo Pork",
+    "ingredients": [
+      "Pork shoulder",
+      "Orange juice",
+      "Lime juice",
+      "Garlic",
+      "Oregano",
+      "Cumin",
+      "Olive oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Marinate pork in mojo overnight.",
+      "Roast until tender.",
+      "Shred and serve with rice and beans."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Bruschetta",
+    "ingredients": [
+      "Baguette",
+      "Tomatoes",
+      "Garlic",
+      "Basil",
+      "Olive oil",
+      "Balsamic vinegar",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toast bread slices.",
+      "Mix diced tomatoes with garlic, basil, oil, and vinegar.",
+      "Top bread and serve."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Chili Lime Grilled Corn",
+    "ingredients": [
+      "Corn on the cob",
+      "Butter",
+      "Chili powder",
+      "Lime",
+      "Salt",
+      "Cilantro"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Grill corn until charred.",
+      "Brush with butter mixed with chili and lime.",
+      "Sprinkle salt and cilantro."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "Spaghetti",
+      "Ground beef",
+      "Onion",
+      "Garlic",
+      "Tomato sauce",
+      "Carrot",
+      "Olive oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté onion, carrot, and garlic.",
+      "Brown beef and add tomato sauce.",
+      "Simmer 20 minutes and serve over pasta."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Chicken Caesar Wrap",
+    "ingredients": [
+      "Tortilla",
+      "Grilled chicken",
+      "Romaine",
+      "Caesar dressing",
+      "Parmesan",
+      "Croutons",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toss chicken and romaine with dressing.",
+      "Add parmesan and croutons.",
+      "Wrap in tortilla and serve."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Caramelized Onion Tart",
+    "ingredients": [
+      "Puff pastry",
+      "Onions",
+      "Butter",
+      "Thyme",
+      "Goat cheese",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Caramelize onions slowly in butter.",
+      "Top pastry with onions and goat cheese.",
+      "Bake at 200°C for 20 minutes."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Lemon Ricotta Pancakes",
+    "ingredients": [
+      "Flour",
+      "Ricotta",
+      "Eggs",
+      "Milk",
+      "Lemon zest",
+      "Sugar",
+      "Baking powder"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Mix dry ingredients.",
+      "Whisk wet ingredients with ricotta and zest.",
+      "Cook pancakes on a griddle."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Turkey Lettuce Wraps",
+    "ingredients": [
+      "Ground turkey",
+      "Garlic",
+      "Ginger",
+      "Soy sauce",
+      "Hoisin",
+      "Water chestnuts",
+      "Lettuce leaves"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Brown turkey with garlic and ginger.",
+      "Stir in sauces and chopped chestnuts.",
+      "Serve in lettuce leaves."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Penne Arrabbiata",
+    "ingredients": [
+      "Penne",
+      "Garlic",
+      "Chili flakes",
+      "Tomato sauce",
+      "Olive oil",
+      "Parsley",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook pasta until al dente.",
+      "Sauté garlic and chili in oil.",
+      "Add sauce and toss with pasta.",
+      "Top with parsley."
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Beef Tacos",
+    "ingredients": [
+      "Ground beef",
+      "Taco seasoning",
+      "Corn tortillas",
+      "Lettuce",
+      "Tomato",
+      "Cheese",
+      "Salsa"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Brown beef and add seasoning.",
+      "Warm tortillas.",
+      "Assemble tacos with toppings."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Baked Sweet Potato Fries",
+    "ingredients": [
+      "Sweet potatoes",
+      "Olive oil",
+      "Paprika",
+      "Garlic powder",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cut potatoes into fries.",
+      "Toss with oil and spices.",
+      "Bake at 220°C for 25-30 minutes."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Chicken Piccata",
+    "ingredients": [
+      "Chicken breasts",
+      "Flour",
+      "Butter",
+      "Lemon",
+      "Capers",
+      "Chicken stock",
+      "Parsley"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Dredge chicken in flour and sear.",
+      "Make sauce with butter, lemon, capers, and stock.",
+      "Return chicken to sauce and simmer."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Black Bean Soup",
+    "ingredients": [
+      "Black beans",
+      "Onion",
+      "Garlic",
+      "Cumin",
+      "Vegetable stock",
+      "Lime",
+      "Cilantro"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté onion and garlic.",
+      "Add beans, stock, and cumin.",
+      "Simmer and blend partially.",
+      "Finish with lime and cilantro."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "BBQ Ribs",
+    "ingredients": [
+      "Pork ribs",
+      "Dry rub",
+      "BBQ sauce",
+      "Apple juice",
+      "Salt",
+      "Pepper",
+      "Brown sugar"
+    ],
+    "difficulty": "Hard",
+    "steps": [
+      "Season ribs with dry rub.",
+      "Slow bake with apple juice until tender.",
+      "Brush with BBQ and broil briefly."
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Sesame Chicken",
+    "ingredients": [
+      "Chicken thighs",
+      "Cornstarch",
+      "Soy sauce",
+      "Honey",
+      "Garlic",
+      "Sesame seeds",
+      "Green onions"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Coat chicken in cornstarch and fry.",
+      "Simmer sauce and toss chicken.",
+      "Top with sesame and onions."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Vegetable Lasagna",
+    "ingredients": [
+      "Lasagna noodles",
+      "Ricotta",
+      "Spinach",
+      "Zucchini",
+      "Marinara",
+      "Mozzarella",
+      "Parmesan"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Layer noodles with cheeses, vegetables, and sauce.",
+      "Bake at 180°C for 45 minutes.",
+      "Rest before slicing."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Garlic Lemon Roasted Chicken",
+    "ingredients": [
+      "Chicken pieces",
+      "Garlic",
+      "Lemon",
+      "Olive oil",
+      "Thyme",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Marinate chicken with garlic, lemon, and oil.",
+      "Roast at 200°C until browned and cooked.",
+      "Rest and serve."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Vietnamese Spring Rolls",
+    "ingredients": [
+      "Rice paper",
+      "Shrimp",
+      "Vermicelli",
+      "Lettuce",
+      "Mint",
+      "Cilantro",
+      "Peanut sauce"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Soften rice paper in warm water.",
+      "Fill with shrimp, noodles, and herbs.",
+      "Roll tightly and serve with sauce."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Chorizo and Potato Tacos",
+    "ingredients": [
+      "Chorizo",
+      "Potatoes",
+      "Onion",
+      "Corn tortillas",
+      "Cilantro",
+      "Salsa",
+      "Lime"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook chorizo and set aside.",
+      "Sauté diced potatoes and onion.",
+      "Combine and serve in tortillas with toppings."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Margarita Shrimp",
+    "ingredients": [
+      "Shrimp",
+      "Lime juice",
+      "Orange juice",
+      "Tequila (optional)",
+      "Garlic",
+      "Olive oil",
+      "Cilantro"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Marinate shrimp briefly.",
+      "Sauté until pink.",
+      "Finish with cilantro and serve."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Pork Fried Rice",
+    "ingredients": [
+      "Cooked rice",
+      "Pork",
+      "Eggs",
+      "Peas and carrots",
+      "Soy sauce",
+      "Sesame oil",
+      "Green onions"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Scramble eggs and set aside.",
+      "Stir-fry pork, then add rice and vegetables.",
+      "Season and mix in eggs; garnish with onions."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Parmesan Crusted Cod",
+    "ingredients": [
+      "Cod fillets",
+      "Parmesan",
+      "Breadcrumbs",
+      "Lemon",
+      "Butter",
+      "Parsley",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Top cod with parmesan-breadcrumb mixture.",
+      "Bake at 200°C for 12-15 minutes.",
+      "Serve with lemon and parsley."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Vegetable Pad See Ew",
+    "ingredients": [
+      "Wide rice noodles",
+      "Broccoli",
+      "Carrot",
+      "Egg",
+      "Dark soy sauce",
+      "Light soy sauce",
+      "Garlic"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Stir-fry garlic and vegetables.",
+      "Add noodles and sauces.",
+      "Scramble egg and toss together."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Chicken Tortilla Soup",
+    "ingredients": [
+      "Chicken",
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Chicken stock",
+      "Tortilla strips",
+      "Avocado"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté aromatics and add tomatoes and stock.",
+      "Simmer chicken and shred.",
+      "Top with tortilla strips and avocado."
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Pork Carnitas",
+    "ingredients": [
+      "Pork shoulder",
+      "Orange juice",
+      "Lime juice",
+      "Garlic",
+      "Cumin",
+      "Bay leaves",
+      "Salt"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Slow-cook pork with seasonings until tender.",
+      "Shred and crisp in a pan.",
+      "Serve in tortillas."
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Spicy Tuna Pasta",
+    "ingredients": [
+      "Pasta",
+      "Canned tuna",
+      "Garlic",
+      "Chili flakes",
+      "Tomato sauce",
+      "Olive oil",
+      "Parsley"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook pasta.",
+      "Sauté garlic and chili; add tuna and sauce.",
+      "Toss with pasta and parsley."
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Creamy Mushroom Chicken",
+    "ingredients": [
+      "Chicken breasts",
+      "Mushrooms",
+      "Garlic",
+      "Cream",
+      "Butter",
+      "Thyme",
+      "Salt"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sear chicken and set aside.",
+      "Sauté mushrooms and garlic.",
+      "Add cream and thyme; return chicken and simmer."
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Roasted Beet Salad",
+    "ingredients": [
+      "Beets",
+      "Goat cheese",
+      "Arugula",
+      "Walnuts",
+      "Balsamic vinegar",
+      "Olive oil",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Roast beets and slice.",
+      "Toss arugula with oil and vinegar.",
+      "Top with beets, cheese, and walnuts."
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Sausage and Peppers",
+    "ingredients": [
+      "Italian sausage",
+      "Bell peppers",
+      "Onion",
+      "Garlic",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Brown sausage and set aside.",
+      "Sauté peppers, onion, and garlic.",
+      "Combine and cook until tender."
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Chicken Alfredo",
+    "ingredients": [
+      "Fettuccine",
+      "Chicken breast",
+      "Butter",
+      "Garlic",
+      "Cream",
+      "Parmesan",
+      "Parsley"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Cook pasta.",
+      "Sear chicken and slice.",
+      "Make Alfredo sauce and toss with pasta and chicken."
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Spicy Black Bean Tacos",
+    "ingredients": [
+      "Black beans",
+      "Corn tortillas",
+      "Onion",
+      "Garlic",
+      "Chili powder",
+      "Avocado",
+      "Lime"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté onion and garlic; add beans and chili powder.",
+      "Warm tortillas and fill.",
+      "Top with avocado and lime."
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Cauliflower Fried Rice",
+    "ingredients": [
+      "Riced cauliflower",
+      "Eggs",
+      "Peas",
+      "Carrots",
+      "Soy sauce",
+      "Green onions",
+      "Sesame oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Scramble eggs and set aside.",
+      "Stir-fry cauliflower rice and vegetables.",
+      "Add soy sauce and eggs; finish with onions."
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Honey Garlic Glazed Salmon",
+    "ingredients": [
+      "Salmon fillets",
+      "Honey",
+      "Garlic",
+      "Soy sauce",
+      "Lemon",
+      "Olive oil",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sear salmon in oil.",
+      "Add honey, garlic, and soy; reduce to glaze.",
+      "Finish with lemon."
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Baked Falafel",
+    "ingredients": [
+      "Chickpeas",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Cumin",
+      "Flour",
+      "Olive oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Blend ingredients to a coarse paste.",
+      "Form balls and brush with oil.",
+      "Bake at 200°C for 25 minutes."
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Pulled Chicken Sandwich",
+    "ingredients": [
+      "Chicken thighs",
+      "BBQ sauce",
+      "Buns",
+      "Pickles",
+      "Coleslaw",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Slow-cook chicken until tender.",
+      "Shred and mix with BBQ.",
+      "Serve in buns with slaw and pickles."
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Spinach Artichoke Pasta",
+    "ingredients": [
+      "Pasta",
+      "Spinach",
+      "Artichoke hearts",
+      "Garlic",
+      "Cream cheese",
+      "Parmesan",
+      "Olive oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook pasta.",
+      "Sauté garlic, spinach, and artichokes.",
+      "Stir in cream cheese and parmesan; toss pasta."
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Mexican Street Corn Salad",
+    "ingredients": [
+      "Corn kernels",
+      "Mayonnaise",
+      "Cotija",
+      "Lime juice",
+      "Chili powder",
+      "Cilantro",
+      "Green onion"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Char corn in a skillet.",
+      "Mix with mayo, lime, chili, and cheese.",
+      "Top with cilantro and onion."
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Sesame Soba Stir-Fry",
+    "ingredients": [
+      "Soba noodles",
+      "Broccoli",
+      "Mushrooms",
+      "Soy sauce",
+      "Sesame oil",
+      "Garlic",
+      "Ginger"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook soba and set aside.",
+      "Stir-fry vegetables with garlic and ginger.",
+      "Add noodles and sauce; toss."
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Roasted Chicken Thighs with Veggies",
+    "ingredients": [
+      "Chicken thighs",
+      "Potatoes",
+      "Carrots",
+      "Onion",
+      "Olive oil",
+      "Rosemary",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toss vegetables with oil and rosemary.",
+      "Season chicken and place on top.",
+      "Roast at 200°C for 40 minutes."
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Baked Brie with Honey",
+    "ingredients": [
+      "Wheel of brie",
+      "Honey",
+      "Thyme",
+      "Walnuts",
+      "Crackers",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Score brie and drizzle honey.",
+      "Bake at 180°C for 10 minutes.",
+      "Top with thyme and walnuts; serve."
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Thai Basil Chicken",
+    "ingredients": [
+      "Ground chicken",
+      "Garlic",
+      "Chili",
+      "Soy sauce",
+      "Fish sauce",
+      "Sugar",
+      "Thai basil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Stir-fry garlic and chili.",
+      "Add chicken and sauces; cook through.",
+      "Stir in basil and serve over rice."
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Roasted Garlic Mashed Potatoes",
+    "ingredients": [
+      "Potatoes",
+      "Roasted garlic",
+      "Butter",
+      "Milk",
+      "Salt",
+      "Pepper",
+      "Chives"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Boil potatoes until tender.",
+      "Mash with garlic, butter, and milk.",
+      "Season and top with chives."
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Veggie Burritos",
+    "ingredients": [
+      "Flour tortillas",
+      "Rice",
+      "Black beans",
+      "Corn",
+      "Cheese",
+      "Salsa",
+      "Avocado"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Warm tortillas.",
+      "Fill with rice, beans, corn, and cheese.",
+      "Add salsa and avocado; roll."
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Chicken Enchiladas",
+    "ingredients": [
+      "Corn tortillas",
+      "Shredded chicken",
+      "Enchilada sauce",
+      "Cheddar cheese",
+      "Onion",
+      "Cilantro",
+      "Sour cream"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Fill tortillas with chicken and onion.",
+      "Place in dish, cover with sauce and cheese.",
+      "Bake at 190°C for 20 minutes; garnish."
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Garlic Herb Roasted Salmon",
+    "ingredients": [
+      "Salmon fillet",
+      "Garlic",
+      "Parsley",
+      "Lemon",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Rub salmon with garlic, herbs, and oil.",
+      "Roast at 200°C for 12-15 minutes.",
+      "Squeeze lemon and serve."
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Kimchi Fried Rice",
+    "ingredients": [
+      "Cooked rice",
+      "Kimchi",
+      "Egg",
+      "Green onions",
+      "Soy sauce",
+      "Sesame oil",
+      "Gochujang"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Stir-fry kimchi and rice.",
+      "Add sauces and fry egg on top.",
+      "Garnish with onions."
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Garlic Lemon Asparagus",
+    "ingredients": [
+      "Asparagus",
+      "Garlic",
+      "Lemon",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Parmesan"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toss asparagus with oil and garlic.",
+      "Roast at 200°C for 12 minutes.",
+      "Finish with lemon and parmesan."
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Vegetable Pho",
+    "ingredients": [
+      "Vegetable broth",
+      "Rice noodles",
+      "Mushrooms",
+      "Onion",
+      "Cinnamon stick",
+      "Star anise",
+      "Soy sauce"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Simmer broth with spices.",
+      "Cook noodles and add vegetables.",
+      "Season and serve hot."
+    ]
+  },
+  {
+    "id": 125,
+    "name": "BBQ Jackfruit Sandwich",
+    "ingredients": [
+      "Young jackfruit",
+      "BBQ sauce",
+      "Buns",
+      "Coleslaw",
+      "Pickles",
+      "Onion",
+      "Salt"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Shred jackfruit and simmer in BBQ sauce.",
+      "Toast buns and assemble with slaw.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Prosciutto Arugula Pizza",
+    "ingredients": [
+      "Pizza dough",
+      "Mozzarella",
+      "Prosciutto",
+      "Arugula",
+      "Parmesan",
+      "Olive oil",
+      "Balsamic glaze"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Bake crust with mozzarella.",
+      "Top with prosciutto and arugula.",
+      "Finish with parmesan and balsamic."
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Chicken Pesto Flatbread",
+    "ingredients": [
+      "Flatbread",
+      "Pesto",
+      "Cooked chicken",
+      "Mozzarella",
+      "Cherry tomatoes",
+      "Olive oil",
+      "Pepper"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Spread pesto on flatbread.",
+      "Top with chicken, cheese, and tomatoes.",
+      "Bake until cheese melts."
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Mexican Rice",
+    "ingredients": [
+      "Long grain rice",
+      "Tomato sauce",
+      "Onion",
+      "Garlic",
+      "Chicken broth",
+      "Peas",
+      "Carrots"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté rice with onion and garlic.",
+      "Add sauce and broth; simmer until tender.",
+      "Stir in peas and carrots."
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Teriyaki Tofu Stir-Fry",
+    "ingredients": [
+      "Firm tofu",
+      "Broccoli",
+      "Bell pepper",
+      "Teriyaki sauce",
+      "Garlic",
+      "Sesame oil",
+      "Green onions"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Crisp tofu in oil.",
+      "Stir-fry vegetables and add tofu.",
+      "Pour teriyaki sauce and toss; garnish with onions."
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Minestrone Soup",
+    "ingredients": [
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Tomatoes",
+      "Beans",
+      "Pasta",
+      "Vegetable stock"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté aromatics.",
+      "Add stock, tomatoes, beans, and simmer.",
+      "Add pasta and cook until tender."
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Pork Schnitzel",
+    "ingredients": [
+      "Pork cutlets",
+      "Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Lemon",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Pound cutlets and season.",
+      "Dredge in flour, egg, and breadcrumbs.",
+      "Pan-fry until golden; serve with lemon."
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Greek Chicken Gyros",
+    "ingredients": [
+      "Chicken",
+      "Greek seasoning",
+      "Pita bread",
+      "Tzatziki",
+      "Tomato",
+      "Onion",
+      "Lettuce"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Season and grill chicken; slice.",
+      "Warm pita and add fillings.",
+      "Top with tzatziki."
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Cilantro Lime Rice",
+    "ingredients": [
+      "Rice",
+      "Lime juice",
+      "Lime zest",
+      "Cilantro",
+      "Butter",
+      "Salt",
+      "Water"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook rice with butter and salt.",
+      "Stir in lime zest, juice, and cilantro.",
+      "Fluff and serve."
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Spinach Feta Stuffed Chicken",
+    "ingredients": [
+      "Chicken breasts",
+      "Spinach",
+      "Feta",
+      "Garlic",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Sauté spinach and garlic; mix with feta.",
+      "Butterfly chicken and stuff.",
+      "Sear and bake until cooked through."
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Shrimp Fried Rice",
+    "ingredients": [
+      "Cooked rice",
+      "Shrimp",
+      "Eggs",
+      "Peas",
+      "Carrots",
+      "Soy sauce",
+      "Sesame oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Scramble eggs and set aside.",
+      "Stir-fry shrimp and vegetables.",
+      "Add rice and sauces; mix in eggs."
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Tomato Basil Bruschetta Pasta",
+    "ingredients": [
+      "Pasta",
+      "Cherry tomatoes",
+      "Garlic",
+      "Basil",
+      "Olive oil",
+      "Balsamic vinegar",
+      "Parmesan"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook pasta.",
+      "Sauté tomatoes and garlic; add balsamic.",
+      "Toss with pasta and basil; top with parmesan."
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Chicken and Broccoli Stir-Fry",
+    "ingredients": [
+      "Chicken breast",
+      "Broccoli",
+      "Garlic",
+      "Soy sauce",
+      "Oyster sauce",
+      "Cornstarch",
+      "Oil"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Marinate chicken with sauces and cornstarch.",
+      "Stir-fry chicken and set aside.",
+      "Cook broccoli; combine and serve."
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Roasted Brussels Sprouts",
+    "ingredients": [
+      "Brussels sprouts",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Balsamic glaze",
+      "Parmesan",
+      "Garlic"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Halve sprouts and toss with oil and seasoning.",
+      "Roast at 200°C for 25 minutes.",
+      "Drizzle balsamic and sprinkle parmesan."
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Beef Bulgogi Bowl",
+    "ingredients": [
+      "Beef",
+      "Soy sauce",
+      "Sugar",
+      "Garlic",
+      "Sesame oil",
+      "Rice",
+      "Kimchi"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Marinate and sear beef.",
+      "Serve over rice with kimchi.",
+      "Garnish with green onions."
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Chicken Tikka Masala",
+    "ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Tikka masala paste",
+      "Tomato puree",
+      "Cream",
+      "Garlic",
+      "Ginger"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Marinate chicken and grill or sear.",
+      "Simmer sauce with tomato and cream.",
+      "Add chicken and serve with rice."
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Greek Orzo Salad",
+    "ingredients": [
+      "Orzo",
+      "Cucumber",
+      "Tomato",
+      "Feta",
+      "Olives",
+      "Olive oil",
+      "Lemon juice"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cook orzo and cool.",
+      "Mix with chopped vegetables and feta.",
+      "Dress with oil and lemon."
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Pork Ramen",
+    "ingredients": [
+      "Ramen noodles",
+      "Pork belly",
+      "Soy sauce",
+      "Mirin",
+      "Egg",
+      "Green onions",
+      "Broth"
+    ],
+    "difficulty": "Hard",
+    "steps": [
+      "Simmer broth with aromatics.",
+      "Cook pork belly until tender.",
+      "Assemble bowl with noodles, pork, and toppings."
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Buffalo Chicken Wrap",
+    "ingredients": [
+      "Tortilla",
+      "Chicken",
+      "Buffalo sauce",
+      "Lettuce",
+      "Tomato",
+      "Ranch dressing",
+      "Cheese"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Toss chicken in buffalo sauce.",
+      "Fill tortilla with ingredients.",
+      "Wrap and serve."
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Garlic Butter Green Beans",
+    "ingredients": [
+      "Green beans",
+      "Butter",
+      "Garlic",
+      "Salt",
+      "Pepper",
+      "Lemon",
+      "Almonds"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Blanch green beans and drain.",
+      "Sauté in butter and garlic.",
+      "Season and add lemon and almonds."
+    ]
+  },
+  {
+    "id": 145,
+    "name": "BBQ Chicken Pizza",
+    "ingredients": [
+      "Pizza dough",
+      "BBQ sauce",
+      "Cooked chicken",
+      "Red onion",
+      "Mozzarella",
+      "Cilantro",
+      "Olive oil"
+    ],
+    "difficulty": "Medium",
+    "steps": [
+      "Spread BBQ sauce on dough.",
+      "Top with chicken, onion, and cheese.",
+      "Bake until crust is golden; garnish with cilantro."
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Curry Lentil Soup",
+    "ingredients": [
+      "Red lentils",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Curry powder",
+      "Vegetable stock",
+      "Coconut milk"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Sauté aromatics and curry powder.",
+      "Add lentils and stock; simmer.",
+      "Finish with coconut milk."
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Chicken and Rice Casserole",
+    "ingredients": [
+      "Chicken thighs",
+      "Rice",
+      "Chicken stock",
+      "Onion",
+      "Garlic",
+      "Carrots",
+      "Peas"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Combine rice, stock, and vegetables in a dish.",
+      "Season chicken and place on top.",
+      "Bake at 190°C for 45 minutes."
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Shrimp Tacos with Slaw",
+    "ingredients": [
+      "Shrimp",
+      "Corn tortillas",
+      "Cabbage",
+      "Lime",
+      "Yogurt or mayo",
+      "Chili powder",
+      "Cilantro"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Season and sauté shrimp.",
+      "Make lime slaw.",
+      "Assemble tacos with cilantro."
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Roasted Tomato Bruschetta",
+    "ingredients": [
+      "Tomatoes",
+      "Garlic",
+      "Basil",
+      "Olive oil",
+      "Balsamic",
+      "Baguette",
+      "Salt"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Roast tomatoes with garlic.",
+      "Mix with basil, oil, and balsamic.",
+      "Top toasted baguette slices."
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      "Flour",
+      "Butter",
+      "Sugar",
+      "Brown sugar",
+      "Egg",
+      "Chocolate chips",
+      "Baking soda"
+    ],
+    "difficulty": "Easy",
+    "steps": [
+      "Cream butter and sugars.",
+      "Mix in egg and dry ingredients.",
+      "Fold in chocolate chips and bake at 180°C for 10-12 minutes."
+    ]
+  }
+]
