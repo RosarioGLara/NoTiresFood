@@ -165,8 +165,15 @@ def find_recipes(ingredients):
           #print("Recipes file not found.")
           return []
 
-def prioritize_ingredients(ingredients):
+def check_allergies(ingredients, allergies):
+     for ing in ingredients:
+          if ing in allergies:
+               ingredients.remove(ing)
+     return ingredients
+
+def prioritize_ingredients(ingredients, allergies):
      #clean expired ingredients
+     ingredients = check_allergies(ingredients, allergies)
      current_date = datetime.datetime.now().date()
      current = [int(i) for i in str(current_date).split("-")]
      diff_dict = dict()
@@ -202,3 +209,18 @@ def generate_recipes(user,ingredients_input):
 
      with open("generated_recipes.json", 'r') as file:
           return json.load(file)
+
+def __init__():
+     print('Select all your current ingredients:')
+     ingredients = []
+     allergies = []
+     while True:
+          ing = input('Ingredient: ')
+          exp_date = input('Exp_date: ')
+          quantity = input('Quantity: ')
+          ingredients.append(Ingredient(ing, exp_date, quantity))
+     
+     print('Add your ingredient allergies: ')
+     while True:
+          ing = input('Ingredient: ')
+          allergies.append(ingredient)
